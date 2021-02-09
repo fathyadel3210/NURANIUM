@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.js": "/NURANIUM/static/js/main.d9d49454.chunk.js",
+    "main.js.map": "/NURANIUM/static/js/main.d9d49454.chunk.js.map",
+    "runtime-main.js": "/NURANIUM/static/js/runtime-main.7d1442b0.js",
+    "runtime-main.js.map": "/NURANIUM/static/js/runtime-main.7d1442b0.js.map",
+    "static/css/2.2b0d90ed.chunk.css": "/NURANIUM/static/css/2.2b0d90ed.chunk.css",
+    "static/js/2.eb406688.chunk.js": "/NURANIUM/static/js/2.eb406688.chunk.js",
+    "static/js/2.eb406688.chunk.js.map": "/NURANIUM/static/js/2.eb406688.chunk.js.map",
+    "index.html": "/NURANIUM/index.html",
+    "static/css/2.2b0d90ed.chunk.css.map": "/NURANIUM/static/css/2.2b0d90ed.chunk.css.map",
+    "static/js/2.eb406688.chunk.js.LICENSE.txt": "/NURANIUM/static/js/2.eb406688.chunk.js.LICENSE.txt",
+    "static/media/blacklivingRoom.9a5f9f75.jpg": "/NURANIUM/static/media/blacklivingRoom.9a5f9f75.jpg",
+    "static/media/chair.2c6ddfb7.jpg": "/NURANIUM/static/media/chair.2c6ddfb7.jpg",
+    "static/media/clock.9b2ebb4a.jpg": "/NURANIUM/static/media/clock.9b2ebb4a.jpg",
+    "static/media/greenWith.74c7f87a.jpg": "/NURANIUM/static/media/greenWith.74c7f87a.jpg",
+    "static/media/horizontal.70c36890.jpg": "/NURANIUM/static/media/horizontal.70c36890.jpg",
+    "static/media/latest-1.a3bfbd7f.jpg": "/NURANIUM/static/media/latest-1.a3bfbd7f.jpg",
+    "static/media/latest-2.6df0f802.jpg": "/NURANIUM/static/media/latest-2.6df0f802.jpg",
+    "static/media/latest-3.81b9d98a.jpg": "/NURANIUM/static/media/latest-3.81b9d98a.jpg",
+    "static/media/pillow.30ac51df.jpg": "/NURANIUM/static/media/pillow.30ac51df.jpg",
+    "static/media/room.88c4de85.jpg": "/NURANIUM/static/media/room.88c4de85.jpg",
+    "static/media/roundedChair.fbf2276b.jpg": "/NURANIUM/static/media/roundedChair.fbf2276b.jpg",
+    "static/media/sofa1.85e3bdad.jpg": "/NURANIUM/static/media/sofa1.85e3bdad.jpg",
+    "static/media/sofa2.4ead1dee.jpg": "/NURANIUM/static/media/sofa2.4ead1dee.jpg",
+    "static/media/sofa3.894ee29f.jpg": "/NURANIUM/static/media/sofa3.894ee29f.jpg",
+    "static/media/sofaRed.2a20dc31.jpg": "/NURANIUM/static/media/sofaRed.2a20dc31.jpg",
+    "static/media/tableBillow.c7471ba8.jpg": "/NURANIUM/static/media/tableBillow.c7471ba8.jpg",
+    "static/media/theater.b0841025.jpg": "/NURANIUM/static/media/theater.b0841025.jpg",
+    "static/media/trendingAimchair.4c94d2f1.png": "/NURANIUM/static/media/trendingAimchair.4c94d2f1.png",
+    "static/media/trendingChair.4870a970.png": "/NURANIUM/static/media/trendingChair.4870a970.png",
+    "static/media/trendingGreenSofa.d1aba28b.png": "/NURANIUM/static/media/trendingGreenSofa.d1aba28b.png",
+    "static/media/trendingPottery.6f5cfe36.png": "/NURANIUM/static/media/trendingPottery.6f5cfe36.png",
+    "static/media/trendingSofa.9ed7ba7b.png": "/NURANIUM/static/media/trendingSofa.9ed7ba7b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d1442b0.js",
+    "static/css/2.2b0d90ed.chunk.css",
+    "static/js/2.eb406688.chunk.js",
+    "static/js/main.d9d49454.chunk.js"
+  ]
+}
